@@ -2,6 +2,24 @@
 
 Raspberry Pi Pico W webserver and client sample code
 
+## Raspberry PI Pico W
+
+https://www.raspberrypi.com/products/raspberry-pi-pico/
+
+It is a small microcomputer board equipped with Wi-fi.
+It is very convenient for developing IoT gadgets because
+it can perform network communication by itself.
+
+Unlike Raspberry Pi Zero, etc., it is not possible to run an OS such as Linux,
+You can run code written in MicroPython.
+
+Wifi を搭載した小さなマイコンボードです。
+単体でネットワーク通信ができることにより、IoT ガジェットの開発に非常に便利です。
+
+Raspberry Pi Zero 等と違い、 Linux 等のOS が実行できるわけではありませんが、
+MicroPython で書いたコードを実行できます。
+
+
 ## uf2 Framework
 
 Download uf2 firmware from here
