@@ -1,0 +1,112 @@
+# General
+tmp
+temp
+\#*
+.#*
+~*
+
+# Editor
+*~
+*.orig
+*.swp
+
+# Python
+*.pyc
+*.pyo
+*.eggs
+*.egg-info/
+dist/
+
+# virtualenv
+venv/
+.venv/
+
+# PHP
+.php_cs.cache
+
+# Windows
+Thumbs.db
+
+# Eclipse
+.project/
+
+# Pydev
+.pydevproject/
+
+# Mac
+.DS_Store
+
+# coverage
+.coverage
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+
+# CocoaPod
+Pods/*
+Podfile.lock
+
+# node
+node_modules/
+
+# SASS
+.sass-cache/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# RoboBrowserQuery
+snapshot.html
+
+# local
+_ansible/
+bundle*.zip
+
+# if required
+# data/*
+# config/*
+
+# ---------------------------------------------------------------------------------------------------------
+# JetBrains
+.idea/*
+
+# CMake
+cmake-build-*/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+.env
+secrets.py
