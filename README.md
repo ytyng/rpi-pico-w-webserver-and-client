@@ -2,6 +2,25 @@
 
 Raspberry Pi Pico W webserver and client sample code
 
+## What is this?
+
+This is a code sample to start the web server and web client at the same time on one Raspberry Pi Pico W.
+
+When you power on Pico W, it establishes a Wi-fi connection and starts a web server.
+
+With other web clients, requesting /led/on turns on the LED on the board.
+
+When you press the switch connected to GPIO, it will send an HTTP request to the determined URL.
+
+1台の Raspberry Pi Pico W で、Web サーバーと Web クライアントを同時に起動するコードのサンプルです。
+
+Pico W の電源を投入すると、Wifi 接続を確立し、Web サーバを起動します。
+
+他の Web クライアントで、 /led/on にリクエストすると、本体の LED を点灯します。
+
+GPIO に接続されたスイッチを押すと、決められた URL に HTTP リクエストを送ります。
+
+
 ## Raspberry PI Pico W
 
 https://www.raspberrypi.com/products/raspberry-pi-pico/
