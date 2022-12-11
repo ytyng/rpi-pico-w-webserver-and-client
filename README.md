@@ -81,6 +81,6 @@ http://xxx.xxx.xxx.xxx/
 
 http://xxx.xxx.xxx.xxx/led/on Then LED will be turned on.
 
-http://xxx.xxx.xxx.xxx/led/on Then LED will be turned off.
+http://xxx.xxx.xxx.xxx/led/off Then LED will be turned off.
 
 Press GPIO 14 switch to request http to https://example.com/ .
