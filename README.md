@@ -44,7 +44,7 @@ MicroPython で書いたコードを実行できます。
 Download uf2 firmware from here
 https://micropython.org/download/rp2-pico-w/
 
-Latest build link:
+Latest build direct link:
 https://micropython.org/download/rp2-pico-w/rp2-pico-w-latest.uf2
 
 Install uf2 firmware to Raspberry Pi Pico W using Raspberry Pi Pico's USB port.
